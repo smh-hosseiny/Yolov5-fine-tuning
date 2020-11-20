@@ -1,1 +1,3 @@
-# Yolov5-fine-tunning
+# Yolov5-fine-tuning
+
+fine-tuning Yolov5s on chess data.
